@@ -1,9 +1,11 @@
+%define debug_package %{nil}
+
 Name:		model-config-emulator
 Summary:	A Model configuration
 Version:	0.0.2
 Release:	0
 Group:		System/Configuration
-License:	Apache License, Version 2.0
+License:	Apache-2.0
 BuildArch:	noarch
 Source0:	%{name}-%{version}.tar.gz
 
@@ -17,17 +19,25 @@ Model configuration data package
 
 %install
 rm -rf %{buildroot}
-mkdir -p %{buildroot}/etc/config
-%if "%{?tizen_profile_name}" == "mobile"
-cp -f model-config_mobile.xml %{buildroot}/etc/config/model-config.xml
-%else
-cp -f model-config_wearable.xml %{buildroot}/etc/config/model-config.xml
+mkdir -p %{buildroot}%{_sysconfdir}/config
+
+%define config_xml model-config_mobile.xml
+
+%if "%{?profile}" == "wearable"
+%define config_xml model-config_wearable.xml
 %endif
 
-mkdir -p %{buildroot}/usr/share/license
-cp %{_builddir}/%{name}-%{version}/LICENSE.Apache-2.0 %{buildroot}/usr/share/license/%{name}
+%if "%{?profile}" == "tv"
+%define config_xml model-config_tv.xml
+%endif
+
+%if "%{?profile}" == "mobile"
+%define config_xml model-config_mobile.xml
+%endif
+
+cp -f %{config_xml} %{buildroot}%{_sysconfdir}/config/model-config.xml
 
 %files
-/usr/share/license/%{name}
-/etc/config/model-config.xml
+%config %{_sysconfdir}/config/model-config.xml
 %manifest model-config.manifest
+%license LICENSE.Apache-2.0
