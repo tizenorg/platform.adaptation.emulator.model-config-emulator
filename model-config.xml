@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<model-config version="2.3.0" model="EMULATOR">
+<model-config version="3.0" model="EMULATOR">
 	<platform>
 		<key name="tizen.org/system/model_name" type="string">Emulator</key>
 		<key name="tizen.org/system/platform.name" type="string">Tizen</key>
-		<key name="tizen.org/feature/platform.version" type="string">2.3.0</key>
+		<key name="tizen.org/feature/platform.version" type="string">3.0</key>
 		<key name="tizen.org/system/platform.processor" type="string">Emulator</key>
 		<key name="tizen.org/system/platform.communication_processor" type="string">none</key>
 		<key name="tizen.org/system/manufacturer" type="string">Tizen</key>
@@ -77,9 +77,9 @@
 		<key name="tizen.org/feature/platform.core.fpu.arch.ssse3" type="bool">false</key>
 		<key name="tizen.org/feature/platform.core.fpu.arch.vfpv2" type="bool">false</key>
 		<key name="tizen.org/feature/platform.core.fpu.arch.vfpv3" type="bool">false</key>
-		<key name="tizen.org/feature/platform.native.api.version" type="string">2.3</key>
+		<key name="tizen.org/feature/platform.native.api.version" type="string">3.0</key>
 		<key name="tizen.org/feature/platform.native.osp_compatible" type="bool">false</key>
-		<key name="tizen.org/feature/platform.web.api.version" type="string">2.3</key>
+		<key name="tizen.org/feature/platform.web.api.version" type="string">3.0</key>
 		<key name="tizen.org/feature/profile" type="string">mobile</key>
 		<key name="tizen.org/feature/screen.auto_rotation" type="bool">true</key>
 		<key name="tizen.org/feature/screen.bpp" type="int">32</key>
