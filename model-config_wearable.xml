@@ -42,6 +42,7 @@
 		<key name="tizen.org/feature/multi_point_touch.pinch_zoom" type="bool">true</key>
 		<key name="tizen.org/feature/multi_point_touch.point_count" type="int">2</key>
 		<key name="tizen.org/feature/multimedia.transcoder" type="bool">false</key>
+		<key name="tizen.org/feature/network.ethernet" type="bool">true</key>
 		<key name="tizen.org/feature/network.bluetooth" type="bool">false</key>
 		<key name="tizen.org/feature/network.bluetooth.audio.call" type="bool">false</key>
 		<key name="tizen.org/feature/network.bluetooth.audio.media" type="bool">false</key>
