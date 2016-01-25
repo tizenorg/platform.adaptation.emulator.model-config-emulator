@@ -20,7 +20,9 @@
 		<key name="tizen.org/feature/led" type="bool">false</key>
 		<key name="tizen.org/feature/location" type="bool">true</key>
 		<key name="tizen.org/feature/location.gps" type="bool">true</key>
+                <key name="tizen.org/feature/location.gps.satellite" type="bool">false</key>
 		<key name="tizen.org/feature/location.wps" type="bool">false</key>
+                <key name="tizen.org/feature/location.geofence" type="bool">true</key>
 		<key name="tizen.org/feature/microphone" type="bool">true</key>
 		<key name="tizen.org/feature/multi_point_touch.pinch_zoom" type="bool">true</key>
 		<key name="tizen.org/feature/multi_point_touch.point_count" type="int">10</key>
