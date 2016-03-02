@@ -162,6 +162,7 @@
 		<key name="tizen.org/feature/sound" type="bool">true</key>
 		<key name="tizen.org/feature/speech.recognition" type="bool">false</key>
 		<key name="tizen.org/feature/speech.synthesis" type="bool">true</key>
+		<key name="tizen.org/feature/speech.control" type="bool">true</key>
 		<key name="tizen.org/feature/systemsetting" type="bool">true</key>
 		<key name="tizen.org/feature/systemsetting.home_screen" type="bool">true</key>
 		<key name="tizen.org/feature/systemsetting.lock_screen" type="bool">false</key>
