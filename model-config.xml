@@ -142,6 +142,7 @@
 		<key name="tizen.org/feature/sip.voip" type="bool">false</key>
 		<key name="tizen.org/feature/speech.recognition" type="bool">false</key>
 		<key name="tizen.org/feature/speech.synthesis" type="bool">true</key>
+		<key name="tizen.org/feature/speech.control" type="bool">true</key>
 		<key name="tizen.org/feature/usb.accessory" type="bool">false</key>
 		<key name="tizen.org/feature/usb.host" type="bool">false</key>
 		<key name="tizen.org/feature/vision.face_recognition" type="bool">false</key>
