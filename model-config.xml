@@ -59,6 +59,7 @@
 		<key name="tizen.org/feature/network.tethering.bluetooth" type="bool">false</key>
 		<key name="tizen.org/feature/network.tethering.usb" type="bool">false</key>
 		<key name="tizen.org/feature/network.tethering.wifi" type="bool">false</key>
+		<key name="tizen.org/feature/network.vpn" type="bool">false</key>
 		<key name="tizen.org/feature/network.wifi" type="bool">false</key>
 		<key name="tizen.org/feature/network.wifi.direct" type="bool">false</key>
 		<key name="tizen.org/feature/network.wifi.direct.display" type="bool">false</key>
