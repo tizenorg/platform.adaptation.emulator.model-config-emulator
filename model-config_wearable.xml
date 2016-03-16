@@ -28,6 +28,7 @@
 		<key name="tizen.org/feature/fmradio" type="bool">false</key>
 		<key name="tizen.org/feature/graphics.acceleration" type="bool">true</key>
 		<key name="tizen.org/feature/humanactivitymonitor" type="bool">true</key>
+		<key name="tizen.org/feature/input.rotating_bezel" type="bool">false</key>
 		<key name="tizen.org/feature/input.keyboard" type="bool">false</key>
 		<key name="tizen.org/feature/input.keyboard.layout" type="string">none</key>
 		<key name="tizen.org/feature/led" type="bool">false</key>
@@ -54,7 +55,10 @@
 		<key name="tizen.org/feature/network.bluetooth.opp" type="bool">false</key>
 		<key name="tizen.org/feature/network.internet" type="bool">true</key>
 		<key name="tizen.org/feature/network.nfc" type="bool">false</key>
+		<key name="tizen.org/feature/network.nfc.tag" type="bool">false</key>
+		<key name="tizen.org/feature/network.nfc.p2p" type="bool">false</key>
 		<key name="tizen.org/feature/network.nfc.card_emulation" type="bool">false</key>
+		<key name="tizen.org/feature/network.nfc.card_emulation.hce" type="bool">false</key>
 		<key name="tizen.org/feature/network.nfc.reserved_push" type="bool">false</key>
 		<key name="tizen.org/feature/network.push" type="bool">true</key>
 		<key name="tizen.org/feature/network.secure_element" type="bool">false</key>
@@ -104,6 +108,9 @@
 		<key name="tizen.org/feature/platform.native.osp_compatible" type="bool">false</key>
 		<key name="tizen.org/feature/platform.web.api.version" type="string">3.0</key>
 		<key name="tizen.org/feature/profile" type="string">wearable</key>
+		<key name="tizen.org/feature/screen.shape" type="string">circle</key>
+		<key name="tizen.org/feature/screen.shape.circle" type="bool">true</key>
+		<key name="tizen.org/feature/screen.shape.rectangle" type="bool">false</key>
 		<key name="tizen.org/feature/screen.auto_rotation" type="bool">true</key>
 		<key name="tizen.org/feature/screen.bpp" type="int">32</key>
 		<key name="tizen.org/feature/screen.coordinate_system.size.large" type="bool">false</key>
