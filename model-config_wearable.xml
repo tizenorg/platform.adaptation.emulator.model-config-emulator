@@ -90,7 +90,7 @@
 		<key name="tizen.org/feature/opengles" type="bool">true</key>
 		<key name="tizen.org/feature/opengles.texture_format.3dc" type="bool">false</key>
 		<key name="tizen.org/feature/opengles.texture_format.atc" type="bool">false</key>
-		<key name="tizen.org/feature/opengles.texture_format.etc" type="bool">false</key>
+		<key name="tizen.org/feature/opengles.texture_format.etc" type="bool">true</key>
 		<key name="tizen.org/feature/opengles.texture_format.ptc" type="bool">false</key>
 		<key name="tizen.org/feature/opengles.texture_format.pvrtc" type="bool">false</key>
 		<key name="tizen.org/feature/opengles.texture_format.utc" type="bool">false</key>
