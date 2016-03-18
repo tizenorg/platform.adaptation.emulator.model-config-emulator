@@ -165,7 +165,7 @@
 		<key name="tizen.org/feature/sensor.tiltmeter.wakeup" type="bool">false</key>
 		<key name="tizen.org/feature/sensor.ultraviolet" type="bool">false</key>
 		<key name="tizen.org/feature/sensor.wrist_up" type="bool">false</key>
-		<key name="tizen.org/feature/shell.appwidget" type="bool">true</key>
+		<key name="tizen.org/feature/shell.appwidget" type="bool">false</key>
 		<key name="tizen.org/feature/sip.voip" type="bool">false</key>
 		<key name="tizen.org/feature/sound" type="bool">true</key>
 		<key name="tizen.org/feature/speech.recognition" type="bool">false</key>
