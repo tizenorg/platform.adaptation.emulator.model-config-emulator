@@ -173,8 +173,10 @@
 		<key name="tizen.org/feature/systemsetting.notification_email" type="bool">true</key>
 		<key name="tizen.org/feature/usb.accessory" type="bool">false</key>
 		<key name="tizen.org/feature/usb.host" type="bool">false</key>
-		<key name="tizen.org/feature/vision.face_recognition" type="bool">false</key>
-		<key name="tizen.org/feature/vision.image_recognition" type="bool">false</key>
+		<key name="tizen.org/feature/vision.barcode_detection" type="bool">true</key>
+		<key name="tizen.org/feature/vision.barcode_generation" type="bool">true</key>
+		<key name="tizen.org/feature/vision.face_recognition" type="bool">true</key>
+		<key name="tizen.org/feature/vision.image_recognition" type="bool">true</key>
 		<key name="tizen.org/feature/vision.qrcode_generation" type="bool">false</key>
 		<key name="tizen.org/feature/vision.qrcode_recognition" type="bool">false</key>
 		<key name="tizen.org/feature/web.ime" type="bool">false</key>
