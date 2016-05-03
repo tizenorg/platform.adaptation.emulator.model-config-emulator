@@ -18,6 +18,7 @@
 		<key name="tizen.org/feature/camera.back.flash" type="bool">false</key>
 		<key name="tizen.org/feature/camera.front" type="bool">false</key>
 		<key name="tizen.org/feature/camera.front.flash" type="bool">false</key>
+		<key name="tizen.org/feature/consumer_ir" type="bool">false</key>
 		<key name="tizen.org/feature/contact" type="bool">false</key>
 		<key name="tizen.org/feature/database.encryption" type="bool">true</key>
 		<key name="tizen.org/feature/datacontrol" type="bool">true</key>
