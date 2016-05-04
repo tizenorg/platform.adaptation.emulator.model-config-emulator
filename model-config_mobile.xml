@@ -31,6 +31,7 @@
 		<key name="tizen.org/feature/humanactivitymonitor" type="bool">true</key>
 		<key name="tizen.org/feature/input.keyboard" type="bool">false</key>
 		<key name="tizen.org/feature/input.keyboard.layout" type="string">none</key>
+		<key name="tizen.org/feature/input.rotating_bezel" type="bool">false</key>
 		<key name="tizen.org/feature/iot.oic" type="bool">true</key>
 		<key name="tizen.org/feature/led" type="bool">false</key>
 		<key name="tizen.org/feature/location" type="bool">true</key>
@@ -43,6 +44,7 @@
 		<key name="tizen.org/feature/multi_point_touch.pinch_zoom" type="bool">true</key>
 		<key name="tizen.org/feature/multi_point_touch.point_count" type="int">10</key>
 		<key name="tizen.org/feature/multimedia.transcoder" type="bool">false</key>
+		<key name="tizen.org/feature/network.internet" type="bool">true</key>
 		<key name="tizen.org/feature/network.ethernet" type="bool">true</key>
 		<key name="tizen.org/feature/network.bluetooth" type="bool">false</key>
 		<key name="tizen.org/feature/network.bluetooth.audio.call" type="bool">false</key>
@@ -127,6 +129,8 @@
 		<key name="tizen.org/feature/screen.size.normal.600.1024" type="bool">false</key>
 		<key name="tizen.org/feature/screen.size.normal.720.1280" type="bool">true</key>
 		<key name="tizen.org/feature/screen.size.normal.1080.1920" type="bool">false</key>
+		<key name="tizen.org/feature/screen.shape.circle" type="bool">false</key>
+		<key name="tizen.org/feature/screen.shape.rectangle" type="bool">true</key>
 		<key name="tizen.org/feature/screen.width" type="int">720</key>
 		<key name="tizen.org/feature/sensor.accelerometer" type="bool">false</key>
 		<key name="tizen.org/feature/sensor.accelerometer.wakeup" type="bool">false</key>
