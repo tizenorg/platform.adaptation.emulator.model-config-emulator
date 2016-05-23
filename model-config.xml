@@ -18,7 +18,7 @@
 		<key name="tizen.org/feature/graphics.acceleration" type="bool">true</key>
 		<key name="tizen.org/feature/input.keyboard" type="bool">false</key>
 		<key name="tizen.org/feature/input.keyboard.layout" type="string">none</key>
-		<key name="tizen.org/feature/iot.oic" type="bool">true</key>
+		<key name="tizen.org/feature/iot.ocf" type="bool">true</key>
 		<key name="tizen.org/feature/led" type="bool">false</key>
 		<key name="tizen.org/feature/location" type="bool">true</key>
 		<key name="tizen.org/feature/location.gps" type="bool">true</key>
