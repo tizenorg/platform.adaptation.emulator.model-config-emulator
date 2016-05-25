@@ -146,7 +146,7 @@
 		<key name="tizen.org/feature/sensor.wrist_up" type="bool">false</key>
 		<key name="tizen.org/feature/shell.appwidget" type="bool">true</key>
 		<key name="tizen.org/feature/sip.voip" type="bool">false</key>
-		<key name="tizen.org/feature/speech.recognition" type="bool">false</key>
+		<key name="tizen.org/feature/speech.recognition" type="bool">true</key>
 		<key name="tizen.org/feature/speech.synthesis" type="bool">true</key>
 		<key name="tizen.org/feature/speech.control" type="bool">true</key>
 		<key name="tizen.org/feature/usb.accessory" type="bool">false</key>
