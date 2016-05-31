@@ -33,10 +33,12 @@
 		<key name="tizen.org/feature/network.bluetooth" type="bool">false</key>
 		<key name="tizen.org/feature/network.bluetooth.audio.call" type="bool">false</key>
 		<key name="tizen.org/feature/network.bluetooth.audio.media" type="bool">false</key>
+		<key name="tizen.org/feature/network.bluetooth.audio.controller" type="bool">false</key>
 		<key name="tizen.org/feature/network.bluetooth.health" type="bool">false</key>
 		<key name="tizen.org/feature/network.bluetooth.hid" type="bool">false</key>
 		<key name="tizen.org/feature/network.bluetooth.le" type="bool">false</key>
 		<key name="tizen.org/feature/network.bluetooth.opp" type="bool">false</key>
+		<key name="tizen.org/feature/network.bluetooth.phonebook.client" type="bool">false</key>
 		<key name="tizen.org/feature/network.nfc" type="bool">false</key>
 		<key name="tizen.org/feature/network.nfc.card_emulation" type="bool">false</key>
 		<key name="tizen.org/feature/network.nfc.reserved_push" type="bool">false</key>
