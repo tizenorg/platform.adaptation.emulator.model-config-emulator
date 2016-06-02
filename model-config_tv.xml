@@ -182,5 +182,8 @@
 		<key name="tizen.org/system/sound.notification.volume.resolution.max" type="int">15</key>
 		<key name="tizen.org/system/sound.ringtone.volume.resolution.max" type="int">15</key>
 		<key name="tizen.org/system/sound.system.volume.resolution.max" type="int">15</key>
+        <key name="tizen.org/system/input.key.volume" type="bool">false</key>
+        <key name="tizen.org/system/input.key.menu" type="bool">false</key>
+        <key name="tizen.org/system/input.key.back" type="bool">false</key>
 	</platform>
 </model-config>
