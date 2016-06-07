@@ -162,7 +162,6 @@
 		<key name="tizen.org/feature/sensor.wrist_up" type="bool">false</key>
 		<key name="tizen.org/feature/shell.appwidget" type="bool">false</key>
 		<key name="tizen.org/feature/sip.voip" type="bool">false</key>
-		<key name="tizen.org/feature/sound" type="bool">true</key>
 		<key name="tizen.org/feature/speech.recognition" type="bool">true</key>
 		<key name="tizen.org/feature/speech.synthesis" type="bool">true</key>
 		<key name="tizen.org/feature/systemsetting" type="bool">true</key>
