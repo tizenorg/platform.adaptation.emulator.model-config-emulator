@@ -93,6 +93,7 @@
 		<key name="tizen.org/feature/opengles.texture_format.utc" type="bool">false</key>
 		<key name="tizen.org/feature/opengles.version.1_1" type="bool">true</key>
 		<key name="tizen.org/feature/opengles.version.2_0" type="bool">true</key>
+		<key name="tizen.org/feature/platform.core.cpu.arch" type="string">x86</key>
 		<key name="tizen.org/feature/platform.core.cpu.arch.armv6" type="bool">false</key>
 		<key name="tizen.org/feature/platform.core.cpu.arch.armv7" type="bool">false</key>
 		<key name="tizen.org/feature/platform.core.cpu.arch.x86" type="bool">true</key>
