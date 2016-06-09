@@ -127,6 +127,7 @@
 		<key name="tizen.org/feature/screen.size.normal.240.400" type="bool">false</key>
 		<key name="tizen.org/feature/screen.size.normal.320.320" type="bool">false</key>
 		<key name="tizen.org/feature/screen.size.normal.320.480" type="bool">false</key>
+		<key name="tizen.org/feature/screen.size.normal.360.360" type="bool">false</key>
 		<key name="tizen.org/feature/screen.size.normal.360.480" type="bool">false</key>
 		<key name="tizen.org/feature/screen.size.normal.480.800" type="bool">false</key>
 		<key name="tizen.org/feature/screen.size.normal.540.960" type="bool">false</key>
