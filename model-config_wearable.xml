@@ -124,7 +124,7 @@
 		<key name="tizen.org/feature/screen.coordinate_system.size.large" type="bool">false</key>
 		<key name="tizen.org/feature/screen.coordinate_system.size.normal" type="bool">true</key>
 		<key name="tizen.org/feature/screen.dpi" type="int">300</key>
-		<key name="tizen.org/feature/screen.height" type="int">480</key>
+		<key name="tizen.org/feature/screen.height" type="int">360</key>
 		<key name="tizen.org/feature/screen.output.hdmi" type="bool">false</key>
 		<key name="tizen.org/feature/screen.output.rca" type="bool">false</key>
 		<key name="tizen.org/feature/screen.size.all" type="bool">true</key>
