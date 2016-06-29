@@ -156,6 +156,7 @@
 		<key name="tizen.org/feature/sensor.proximity.wakeup" type="bool">false</key>
 		<key name="tizen.org/feature/sensor.rotation_vector" type="bool">false</key>
 		<key name="tizen.org/feature/sensor.sleep_monitor" type="bool">false</key>
+		<key name="tizen.org/feature/sensor.stress_monitor" type="bool">false</key>
 		<key name="tizen.org/feature/sensor.temperature" type="bool">false</key>
 		<key name="tizen.org/feature/sensor.tiltmeter" type="bool">false</key>
 		<key name="tizen.org/feature/sensor.tiltmeter.wakeup" type="bool">false</key>
