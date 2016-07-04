@@ -37,6 +37,7 @@
 		<key name="tizen.org/feature/network.bluetooth.audio.controller" type="bool">false</key>
 		<key name="tizen.org/feature/network.bluetooth.health" type="bool">false</key>
 		<key name="tizen.org/feature/network.bluetooth.hid" type="bool">false</key>
+		<key name="tizen.org/feature/network.bluetooth.hid_device" type="bool">false</key>
 		<key name="tizen.org/feature/network.bluetooth.le" type="bool">false</key>
 		<key name="tizen.org/feature/network.bluetooth.opp" type="bool">false</key>
 		<key name="tizen.org/feature/network.bluetooth.phonebook.client" type="bool">false</key>
