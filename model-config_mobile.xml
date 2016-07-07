@@ -69,7 +69,7 @@
 		<key name="tizen.org/feature/network.secure_element.uicc" type="bool">false</key>
 		<key name="tizen.org/feature/network.service_discovery.dnssd" type="bool">true</key>
 		<key name="tizen.org/feature/network.service_discovery.ssdp" type="bool">true</key>
-		<key name="tizen.org/feature/network.telephony" type="bool">true</key>
+		<key name="tizen.org/feature/network.telephony" type="bool">false</key>
 		<key name="tizen.org/feature/network.telephony.sms" type="bool">true</key>
 		<key name="tizen.org/feature/network.telephony.sms.cbs" type="bool">false</key>
 		<key name="tizen.org/feature/network.telephony.mms" type="bool">false</key>
